@@ -1,1 +1,1 @@
-# tkinter___medical_image_preprocessing
+# tkinter_medical_image_preprocessing
